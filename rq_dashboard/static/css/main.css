@@ -48,7 +48,8 @@ table, table tr, table tr td {
     background-color: snow;
 }
 
-table tbody tr td.narrow {
+table tbody tr td.narrow,
+table tbody tr th.narrow {
     width: 100px;
 }
 
